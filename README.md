@@ -7,6 +7,8 @@ I am a Chemical Engineer and Software Developer (current focus on Python).
   - creating my personal website.
   - ...
 - 🌱 I’m currently learning 
+  - jQuery
+  - Django + htmx
   - Flask
   - Deploy an Application in a Linux Server
   - React
