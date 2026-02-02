@@ -2,6 +2,8 @@
 
 I'm **Philippe Costa** — a Data Engineer specializing in industrial digitalization, with a background in Chemical Engineering (M.Sc. TU Berlin).
 
+🇧🇷 Brazilian living in Berlin · 🎓 M.Sc. Chemical Engineering (TU Berlin, 1.3) · 🐍 Python specialist
+
 **Currently:** Actively seeking Data Engineering opportunities in Berlin after returning from Elternzeit.
 
 #### 💼 What I Do
