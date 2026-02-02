@@ -19,7 +19,7 @@ I'm **Philippe Costa** — a Data Engineer specializing in industrial digitaliza
 **Languages:** Python · R · MATLAB
 
 #### 🏭 Experience Highlights
-- **2 years at BASF Schwarzheide** developing data infrastructure for F500 chemical production
+- **2 years at BASF Schwarzheide** developing data infrastructure for [F 500®][F500] (crop protection) chemical production
 - **200% performance improvement** on production ETL pipeline through systematic refactoring
 - **M.Sc. Thesis:** ML-based optimization for multi-batch chemical plant (Grade: 1.3)
 
@@ -29,3 +29,7 @@ I'm **Philippe Costa** — a Data Engineer specializing in industrial digitaliza
 ---
 
 💡 *Open to: Data Engineering, ML Engineering, Industrial Digitalization roles*
+
+
+<!-- References -->
+[F500]: <https://agriculture.basf.com/global/en/business-areas/crop-protection-and-seeds/disease-management/F500> "F500, BASF's crop defensive" 
